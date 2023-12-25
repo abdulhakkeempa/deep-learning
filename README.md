@@ -3,4 +3,5 @@ This repository contains the materials I have used to learn the basic concepts a
 
 ### Awesome materials
 1. [CNN Explainer](https://poloclub.github.io/cnn-explainer/)
-2. [ConvNet JS](https://cs.stanford.edu/people/karpathy/convnetjs/demo/mnist.html)https://cs.stanford.edu/people/karpathy/convnetjs/demo/mnist.html)
+2. [ConvNet JS](https://cs.stanford.edu/people/karpathy/convnetjs/demo/mnist.html)
+3. [Pooling Layers](https://machinelearningmastery.com/pooling-layers-for-convolutional-neural-networks/)
